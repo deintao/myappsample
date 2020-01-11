@@ -1,0 +1,55 @@
+20-01-10:
+Wenn du Fragen stellen kannst, verstehst du es auch.
+
+squence proof tree
+formal reasoning
+formal proof
+basic proof rules
+
+oracle postgres db2 open soucre
+
+XML-Spy
+
+Discord Unterlagen Algo.Dat.2 Angaben
+
+Dienstag Mittag SP2, Prähofer
+
+Java: Objektserialisierung, Pipes
+
+SQL-Developer:
+KE98dnDP
+ifs->fuchs2kel
+
+XSLT in Mozilla:
+about:config
+privacy.file_unique_origin: false
+
+19-12-12:
+Mit einfachen Werkzeugen entstehen einfache Produkte
+Mit komplexen Werkzeugen entstehen komplexe Produkte (Mössenböck LR in C)
+
+	</Producer>
+		<Producer name="Samsung">
+		<ProducerNo no="x47"/>
+		<Type name="Galaxy 8">
+			<Weight>101g</Weight>
+			<Price contract="yes">999</Price>
+			<Price contract="no">4999</Price>
+		</Type>
+	</Producer>
+	<Producer name="HUAWEI">
+		<ProducerNo no="x78"/>
+		<Type name="Mate2">
+			<Weight>151g</Weight>
+			<Price contract="no">4999</Price>
+		</Type>
+	</Producer>
+		<Producer name="kjh">
+		<ProducerNo no="x08"/>
+		<Type name="kh">
+			<Weight>159g</Weight>
+			<Price contract="no">4999</Price>
+		</Type>
+	</Producer>
+	
+javascript:alert(document. lastModified);	
